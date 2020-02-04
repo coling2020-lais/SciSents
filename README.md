@@ -20,16 +20,16 @@ Columns
     - S02 -Establishing the importance of the topic for the world or society
     - S03 -Establishing the importance of the topic as a problem to be addressed
     - S04 -Referring to previous work to establish what is already known
-  M2 - Establishing a niche
-    S05 -Highlighting inadequacies or weaknesses of previous studies (also refer to Being Critical)
-    S06 -Noting the lack of or paucity of previous research
-  M3 - Occupying the niche
-    S07 -Stating the purpose of the current research
-    S08 -Setting out the research questions or hypotheses
-    S09 -Describing the research design and the methods used
-    S10 -Explaining the significance of the current study
-    S11 -Describing the limitations of the current study
-    S12 -Outlining the structure of a short paper
-    S13 -Explaining Keywords (also refer to Defining Terms)
+  - M2 - Establishing a niche
+    - S05 -Highlighting inadequacies or weaknesses of previous studies (also refer to Being Critical)
+    - S06 -Noting the lack of or paucity of previous research
+  - M3 - Occupying the niche
+    - S07 -Stating the purpose of the current research
+    - S08 -Setting out the research questions or hypotheses
+    - S09 -Describing the research design and the methods used
+    - S10 -Explaining the significance of the current study
+    - S11 -Describing the limitations of the current study
+    - S12 -Outlining the structure of a short paper
+    - S13 -Explaining Keywords (also refer to Defining Terms)
 
 
