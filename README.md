@@ -15,11 +15,11 @@ Columns
 - MOVE: sentence Move
 - STEP: sentence Step
 - LABEL: Move and Step identification in format M#-S##
-  M1 - Establishing the territory
-    S01 -Establishing the importance of the topic for the discipline
-    S02 -Establishing the importance of the topic for the world or society
-    S03 -Establishing the importance of the topic as a problem to be addressed
-    S04 -Referring to previous work to establish what is already known
+  - M1 - Establishing the territory
+    - S01 -Establishing the importance of the topic for the discipline
+    - S02 -Establishing the importance of the topic for the world or society
+    - S03 -Establishing the importance of the topic as a problem to be addressed
+    - S04 -Referring to previous work to establish what is already known
   M2 - Establishing a niche
     S05 -Highlighting inadequacies or weaknesses of previous studies (also refer to Being Critical)
     S06 -Noting the lack of or paucity of previous research
