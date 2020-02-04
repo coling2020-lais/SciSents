@@ -1,5 +1,5 @@
 # SciSents
-Software engineering scientific article corpus for genre analysis
+A corpus with sentences extracted from software engineering scientific articles for genre analysis evaluation
 
 - Based of 9,193 software engineering articles published between 2000 and 2018from highly-cited journals and proceedings.
 - Composed of 322,630 sentences from introduction section
