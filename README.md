@@ -3,7 +3,8 @@ A corpus with sentences extracted from software engineering scientific articles 
 
 - Based of 9,193 software engineering articles published between 2000 and 2018from highly-cited journals and proceedings.
 - Composed of 322,630 sentences from introduction section
-- 595 annotated sentences
+- 595 manual annotated sentences (SciSents.xlsx)
+- 1,309 manual annotated sentences (SciSents-R2.xlsx)
 
 
 Columns
